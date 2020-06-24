@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Curto demais Calistenia, e estava querendo fazer alguma animação usando CSS, aí eu fiz esse monstro da calistenia que não para de fazer barra
+Curto Calistenia demais, e estava querendo fazer alguma animação usando CSS, aí eu fiz esse monstro da calistenia que não para de fazer barra fixa.
 
 
 ## Start
