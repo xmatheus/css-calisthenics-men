@@ -17,7 +17,7 @@ Curto Calistenia demais, e estava querendo fazer alguma animação usando CSS, a
 ## Start
 
 `download repo`
-> git clone [https://github.com/xmatheus/css-calistenichs-men](https://github.com/xmatheus/css-calistenichs-men)
+> git clone https://github.com/xmatheus/css-calisthenics-men
 > 
 `change dir`
 > cd css-calistenichs-men
