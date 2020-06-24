@@ -20,7 +20,7 @@ Curto Calistenia demais, e estava querendo fazer alguma animação usando CSS, a
 > git clone https://github.com/xmatheus/css-calisthenics-men
 > 
 `change dir`
-> cd css-calistenichs-men
+> cd css-calisthenics-men
 
 `install and exec`
 > arrasta o arquivo index.html para o navegador
